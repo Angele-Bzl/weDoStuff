@@ -1,0 +1,140 @@
+{
+    "taches": [
+      {
+        "nom": "Développement de la fonctionnalité X",
+        "responsable": "Sophie Durand",
+        "date_depart": "2024-03-28",
+        "date_fin_prevu": "2024-04-05",
+        "difficulté": "Moyenne",
+        "etat": "En cours",
+        "description": "Ceci est une description détaillée de la tâche 'Développement de la fonctionnalité X'."
+      },
+      {
+        "nom": "Correction du bug Y",
+        "responsable": "Lucas Dubois",
+        "date_depart": "2024-03-30",
+        "date_fin_prevu": "2024-04-02",
+        "difficulté": "Élevée",
+        "etat": "À faire",
+        "description": "Ceci est une description détaillée de la tâche 'Correction du bug Y'."
+      },
+      {
+        "nom": "Optimisation des performances",
+        "responsable": "Jean Dupont",
+        "date_depart": "2024-04-01",
+        "date_fin_prevu": "2024-04-10",
+        "difficulté": "Faible",
+        "etat": "Terminé",
+        "description": "Ceci est une description détaillée de la tâche 'Optimisation des performances'."
+      },
+      {
+        "nom": "Mise à jour de la documentation",
+        "responsable": "Alex Martin",
+        "date_depart": "2024-04-03",
+        "date_fin_prevu": "2024-04-12",
+        "difficulté": "Moyenne",
+        "etat": "En pause",
+        "description": "Ceci est une description détaillée de la tâche 'Mise à jour de la documentation'."
+      },
+      {
+        "nom": "Implémentation de l'API Z",
+        "responsable": "Marie Curie",
+        "date_depart": "2024-04-05",
+        "date_fin_prevu": "2024-04-14",
+        "difficulté": "Élevée",
+        "etat": "En cours",
+        "description": "Ceci est une description détaillée de la tâche 'Implémentation de l'API Z'."
+      },
+      {
+        "nom": "Refactoring du module A",
+        "responsable": "Sophie Durand",
+        "date_depart": "2024-04-07",
+        "date_fin_prevu": "2024-04-16",
+        "difficulté": "Faible",
+        "etat": "À faire",
+        "description": "Ceci est une description détaillée de la tâche 'Refactoring du module A'."
+      },
+      {
+        "nom": "Test d'intégration",
+        "responsable": "Jean Dupont",
+        "date_depart": "2024-04-09",
+        "date_fin_prevu": "2024-04-18",
+        "difficulté": "Moyenne",
+        "etat": "Terminé",
+        "description": "Ceci est une description détaillée de la tâche 'Test d'intégration'."
+      },
+      {
+        "nom": "Audit de sécurité",
+        "responsable": "Lucas Dubois",
+        "date_depart": "2024-04-11",
+        "date_fin_prevu": "2024-04-20",
+        "difficulté": "Élevée",
+        "etat": "En pause",
+        "description": "Ceci est une description détaillée de la tâche 'Audit de sécurité'."
+      },
+      {
+        "nom": "Design de l'interface utilisateur",
+        "responsable": "Marie Curie",
+        "date_depart": "2024-04-13",
+        "date_fin_prevu": "2024-04-22",
+        "difficulté": "Faible",
+        "etat": "En cours",
+        "description": "Ceci est une description détaillée de la tâche 'Design de l'interface utilisateur'."
+      },
+      {
+        "nom": "Recherche de nouvelles technologies",
+        "responsable": "Alex Martin",
+        "date_depart": "2024-04-15",
+        "date_fin_prevu": "2024-04-19",
+        "difficulté": "Moyenne",
+        "etat": "À faire",
+        "description": "Ceci est une description détaillée de la tâche 'Recherche de nouvelles technologies'."
+      },
+      {
+        "nom": "Analyse des besoins utilisateurs",
+        "responsable": "Sophie Durand",
+        "date_depart": "2024-04-17",
+        "date_fin_prevu": "2024-04-25",
+        "difficulté": "Élevée",
+        "etat": "Terminé",
+        "description": "Ceci est une description détaillée de la tâche 'Analyse des besoins utilisateurs'."
+      },
+      {
+        "nom": "Planification du sprint",
+        "responsable": "Jean Dupont",
+        "date_depart": "2024-04-19",
+        "date_fin_prevu": "2024-04-27",
+        "difficulté": "Faible",
+        "etat": "En pause",
+        "description": "Ceci est une description détaillée de la tâche 'Planification du sprint'."
+      },
+      {
+        "nom": "Rédaction des cas d'utilisation",
+        "responsable": "Lucas Dubois",
+        "date_depart": "2024-04-21",
+        "date_fin_prevu": "2024-04-29",
+        "difficulté": "Moyenne",
+        "etat": "En cours",
+        "description": "Ceci est une description détaillée de la tâche 'Rédaction des cas d'utilisation'."
+      },
+      {
+        "nom": "Déploiement en production",
+        "responsable": "Marie Curie",
+        "date_depart": "2024-04-23",
+        "date_fin_prevu": "2024-05-01",
+        "difficulté": "Élevée",
+        "etat": "À faire",
+        "description": "Ceci est une description détaillée de la tâche 'Déploiement en production'."
+      },
+      {
+        "nom": "Suivi des retours utilisateurs",
+        "responsable": "Alex Martin",
+        "date_depart": "2024-04-25",
+        "date_fin_prevu": "2024-05-03",
+        "difficulté": "Faible",
+        "etat": "Terminé",
+        "description": "Ceci est une description détaillée de la tâche 'Suivi des retours utilisateurs'."
+      }
+    ]
+  }
+  
